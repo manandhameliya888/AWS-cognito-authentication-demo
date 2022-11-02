@@ -72,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Reference From
 https://www.youtube.com/playlist?list=PLDckhLrNepPR8y-9mDXsLutiwsLhreOk1
+
+
+## Step to Run the project
+Go to UserPool.js and update the value of UserPoolId and ClientID from the AWS Cognito and then run the project.
